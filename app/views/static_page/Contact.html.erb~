@@ -1,0 +1,4 @@
+<% procide(:title, 'Contact') %>
+<h1>Contact Us</h1>
+ <p>To contact us, please visite the page <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a> for our contact information.
+ </p>
