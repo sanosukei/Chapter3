@@ -7,7 +7,7 @@ describe "User Pages" do
     before { visit signup_path }
     
     it { should have_content('Sign up') }
-    it { should have_selector('title', :text => "Ruby on Rails Tutorial Sample App | Sign Up") }
+    it { should have_selector('title', :text => "Ruby on Rails Tutorial Sample App | Sign up") }
   end
 end
 
